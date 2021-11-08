@@ -1,4 +1,4 @@
-package com.sept.chuttypaws
+package com.sept.chubbypaws
 
 import org.junit.Test
 

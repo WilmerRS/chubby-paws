@@ -1,4 +1,4 @@
-package com.sept.chuttypaws
+package com.sept.chubbypaws
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
