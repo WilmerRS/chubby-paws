@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="notifyComponent">
+        <attr name="username" format="string" />
+        <attr name="description" format="string" />
+        <attr name="date" format="string" />
+    </declare-styleable>
+</resources>
